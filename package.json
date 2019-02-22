@@ -1,0 +1,24 @@
+{
+  "name": "dynamic-template-string",
+  "version": "0.0.1",
+  "description": "dynamic template string",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhoukekestar/dynamic-template-string.git"
+  },
+  "keywords": [
+    "dynamc",
+    "template",
+    "string"
+  ],
+  "author": "zhoukekestar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhoukekestar/dynamic-template-string/issues"
+  },
+  "homepage": "https://github.com/zhoukekestar/dynamic-template-string#readme"
+}
